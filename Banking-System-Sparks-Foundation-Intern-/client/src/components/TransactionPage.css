@@ -1,0 +1,10 @@
+.transPage {
+  width: 75%;
+  height: 80vh;
+  border: 2px solid #12cbc4;
+  border-radius: 15px;
+  backdrop-filter: blur(10px);
+  display : grid;
+  grid-template-columns : 1fr 1fr;
+  grid-template-rows : 25%;
+}

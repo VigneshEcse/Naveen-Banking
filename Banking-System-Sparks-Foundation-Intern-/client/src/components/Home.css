@@ -1,0 +1,51 @@
+.home__heading {
+  position: fixed;
+  top: 4%;
+  left: 30%;
+  color: aqua;
+  font-style: italic;
+  font-size: 40px;
+}
+
+.home__link{
+  text-decoration : none;
+}
+
+.home__footer {
+  position: fixed;
+  bottom: 5%;
+  right: 5%;
+  padding: 20px;
+  color: aqua;
+  font-size: 25px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.home__button {
+  height: 70px !important;
+  width: 250px !important;
+  font-size: 23px !important;
+  background-color: #1f2b54 !important;
+  border: 2px solid aqua !important;
+  color: aqua !important;
+  font-weight: bold !important;
+  border-radius: 35px !important;
+  transition: 0.8s !important;
+}
+
+.home__button:hover {
+  background-color: aqua !important;
+  box-shadow: 0 0 20px aqua !important;
+  transform: scale(1.05, 1.05) !important;
+  color: #1f2b54 !important;
+  transition: 0.8s !important;
+}
+
+.home__button:active {
+  background-color: aqua !important;
+  box-shadow: 0 0 20px aqua !important;
+  transform: scale(1.05, 1.05) !important;
+  color: #1f2b54 !important;
+  transition: 0.8s !important;
+}
